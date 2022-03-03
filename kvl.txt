@@ -1,3 +1,7 @@
 hai
 i am varam
+<<<<<<< HEAD
 i am fine
+=======
+i am veru very fine
+>>>>>>> b1
